@@ -31,3 +31,4 @@ I'm currently taking Data Structures and Modern Technologies.
 - LinkedIn: [Anna-Lena Schaeffer](https://www.linkedin.com/in/anna-lena-schaeffer-435aab24a)
 - Email: aschaeffer@northpark.edu
 
+Thanks for visiting my profile!
