@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Welcome to my coding profile!
+=======
+Welcome to my GitHub page!
+>>>>>>> c9d243c7c2bd35605e847bd0422969450a80d4ea
 
 # Hi, I'm Anna-Lena Schaeffer 👋
 
