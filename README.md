@@ -14,10 +14,10 @@ I'm an international student from Sweden studying Applied Computer Science at No
 
 I'm currently taking Data Structures and Modern Technologies.
 
-## Previous Projects
+## Previous Projects 💻
 
-- WEB_APP – a Python weather tracker app using Flask, PostgreSQL, and the Open-Meteo API
-- Campus Life Super App – a multi-page web application with weather, campus events, dining information, and an interactive campus map
+- 🌦️ **WEB_APP** – a Python weather tracker app using Flask, PostgreSQL, and the Open-Meteo API
+- 🗺️ **Campus Life Super App** – a multi-page web application with weather, campus events, dining information, and an interactive campus map
 
 ## About Me 
 
@@ -30,3 +30,4 @@ I'm currently taking Data Structures and Modern Technologies.
 
 - LinkedIn: [Anna-Lena Schaeffer](https://www.linkedin.com/in/anna-lena-schaeffer-435aab24a)
 - Email: aschaeffer@northpark.edu
+
